@@ -6,8 +6,7 @@ export default function Home() {
 
                 <img src="/mg.png" className="" />
 
-                <p className='tracking-tight p-1'>
-                    we're a group of friends on a mission to empower Nigeria through technology. At MossGrid, we're building both open-source and profit-driven software that addresses Nigeria's unique needs. Our goal is to create innovative solutions that enhance the lives of Nigerians and contribute to our digital independence.
+                <p className='tracking-tight p-1'>{"we're a group of friends on a mission to empower Nigeria through technology. At MossGrid, we're building both open-source and profit-driven software that addresses Nigeria's unique needs. Our goal is to create innovative solutions that enhance the lives of Nigerians and contribute to our digital independence. "}
                 </p>
 
                 <section className="w-full max-w-2xl mx-auto p-4">
