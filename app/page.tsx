@@ -3,7 +3,9 @@ export default function Home() {
   return (
     <main className=" flex justify-center">
       <section className="w-fit flex flex-col gap-1.5 sm:w-1/2 md:w-1/2 lg:w-1/3 items-center p-3">
-        <img src="/mg.png" className="" />
+        <div className="w-48 md:w-auto">
+          <img src="/mg.png" className="w-full h-full object-cover" />
+        </div>
 
         <p className="tracking-tight p-1">
           {
