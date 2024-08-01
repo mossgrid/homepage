@@ -24,7 +24,7 @@ export default function Home() {
                 target="_blank"
                 className="text-blue-600 hover:underline"
               >
-                sijirama
+                Sijirama
               </a>
             </li>
             <li>
@@ -33,7 +33,16 @@ export default function Home() {
                 target="_blank"
                 className="text-blue-600 hover:underline"
               >
-                fiyin
+                Fiyin
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.adigunsamuel.me"
+                target="_blank"
+                className="text-blue-600 hover:underline"
+              >
+                Dabira
               </a>
             </li>
           </ul>
