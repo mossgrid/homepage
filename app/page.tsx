@@ -80,7 +80,7 @@ export default function Home() {
                         </li>
                         <li>
                             <a href="" className="text-blue-600 hover:underline">
-                                Blendr (coming soon)
+                                Blendr (coming soon, hopefully Q4 2024)
                             </a>
                         </li>
                     </ul>
