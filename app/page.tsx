@@ -45,6 +45,15 @@ export default function Home() {
                 Dabira
               </a>
             </li>
+            <li>
+              <a
+                href="https://tazmaheyot.vercel.app"
+                target="_blank"
+                className="text-blue-600 hover:underline"
+              >
+                Toye
+              </a>
+            </li>
           </ul>
 
           <h2 className="text-xl font-bold mb-2 bg-gray-100 p-2 rounded">
