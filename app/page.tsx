@@ -54,6 +54,15 @@ export default function Home() {
                 Toye
               </a>
             </li>
+             <li>
+              <a
+                href="https://ajalaferanmi.netlify.app"
+                target="_blank"
+                className="text-blue-600 hover:underline"
+              >
+                Feranmi
+              </a>
+            </li>
           </ul>
 
           <h2 className="text-xl font-bold mb-2 bg-gray-100 p-2 rounded">
