@@ -87,9 +87,7 @@ export default function Home() {
                 </section>
                 <div data-theme="light">
                     <Tweetcomp id={"1817618255386702301"} />
-                    <p>Nigeria has the man power and the developers to provide all of this for ourselves, but who will do it</p>
                     <Tweetcomp id={"1816827251628949936"} />
-                    <p>a recent case that is concerning calling for developers to build or refine their technology and software for their digital independence for them and their communities</p>
                     <Tweetcomp id={"1818908427537596612"} />
                 </div>
             </section>
