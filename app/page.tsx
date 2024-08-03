@@ -63,6 +63,15 @@ export default function Home() {
                                 Feranmi
                             </a>
                         </li>
+                         <li>
+                            <a
+                                href="https://cherish-shed.vercel.app/"
+                                target="_blank"
+                                className="text-blue-600 hover:underline"
+                            >
+                                Cherish
+                            </a>
+                        </li>
                     </ul>
 
                     <h2 className="text-xl font-bold mb-2 bg-gray-100 p-2 rounded">
