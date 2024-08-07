@@ -13,6 +13,10 @@ export default function Home() {
                     }
                 </p>
 
+                <p className="tracking-tight p-1">
+                    our services status page is located <a href="https://mossgrid.github.io/sentinel"> Here </a>
+                </p>
+
                 <section className="w-full max-w-2xl mx-auto p-4">
                     <h2 className="text-xl font-bold mb-2 bg-gray-100 p-2 rounded">
                         Members
