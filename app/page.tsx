@@ -75,7 +75,7 @@ export default function Home() {
                     <ul className="list-disc pl-5">
                         <li>
                             <a
-                                href="https://buymezobo.vercel.app"
+                                href="https://buymezobo.ng"
                                 target="_blank"
                                 className="text-blue-600 hover:underline"
                             >
